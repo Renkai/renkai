@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 We are hiring
 
-![hiring](21251598329929_.pic_hd.jpg)
+![hiring](https://raw.githubusercontent.com/Renkai/renkai/master/21251598329929_.pic_hd.jpg)
