@@ -15,7 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Renkai's github stats](https://github-readme-stats.vercel.app/api?username=renkai)](https://github.com/renkai/github-readme-stats)
-
-We are hiring
-
-![hiring](https://raw.githubusercontent.com/Renkai/renkai/master/21251598329929_.pic_hd.jpg)
